@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "A simple todo application using Node JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaushal Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "loadsh": "0.0.4",
+    "nodemon": "^2.0.12",
+    "yargs": "^17.1.1"
+  }
+}
